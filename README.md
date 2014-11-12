@@ -24,8 +24,6 @@ INSTALLATION
 
      You will need Bison and Flex if you're going to change the RPSL grammar.
 
-	   The development platform is a mac running snow leopard (gcc-4.2.1)
-
 	1. unzip and untar the distribution file
 	2. in the irrtoolset directory, type `./configure' to configure the
 	   package for your system. If you're using `csh' on an old
